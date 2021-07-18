@@ -12,7 +12,9 @@
   <img align="left" alt="Pavel's HH" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HH_Train_%281967-1972%29.svg/600px-HH_Train_%281967-1972%29.svg.png" />
 </a>
 
+
 <br />
+
 
 Меня зовут [Павел](https://vk.com/id150904412), я веб-разработчик из Перми.
 Очень трепетно отношусь ко всему, мне нравится строить архитектуру проекта, нравится разрабатывать целостную 
@@ -36,6 +38,9 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png"></code>
+
+
+<br/>
 
 📊 **Каждый день я трачу на:**
 ```text
