@@ -20,7 +20,7 @@
 Очень трепетно отношусь ко всему, мне нравится строить архитектуру проекта, нравится разрабатывать целостную 
 систему, начиная от моделей в бекенде, заканчивая слайдером на фронтенде.  
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="260" />
   
 💼 Какие-то предложения по работе? Напишите на почту, [Тык!](mailto:pavel.schardakov@gmail.com) :)
 
