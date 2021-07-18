@@ -1,4 +1,5 @@
-### Хей, привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://t.me/begerzerverentempmiss">
+### Хей, привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<a href="https://t.me/begerzerverentempmiss">
   <img align="left" alt="Pavel's Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" />
 </a>
 <a href="https://vk.com/id150904412">
@@ -11,13 +12,11 @@
   <img align="left" alt="Pavel's HH" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HH_Train_%281967-1972%29.svg/600px-HH_Train_%281967-1972%29.svg.png" />
 </a>
 
-
 <br />
 
-
-Меня зовут [Павел](https://vk.com/id150904412), я веб-разработчик из Перми.
+<p> Меня зовут [Павел](https://vk.com/id150904412), я веб-разработчик из Перми.
 Очень трепетно отношусь ко всему, мне нравится строить архитектуру проекта, нравится разрабатывать целостную 
-систему, начиная от моделей в бекенде, заканчивая слайдером на фронтенде.  
+систему, начиная от моделей в бекенде, заканчивая слайдером на фронтенде. </p> 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
   
