@@ -22,7 +22,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
   
-💼 Какие-то предложения по работе? Напишите на почту, <br/> [Тык!](mailto:pavel.schardakov@gmail.com) :)
+💼 Какие-то предложения по работе? <br/> Напишите в телеграмм, [@begerzerverentempmiss](https://t.me/begerzerverentempmiss)
 
 
 **Языки и инструменты, которые я использую:**  
