@@ -20,7 +20,7 @@
 
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" /> -->
   
-💼 telegram: [@begerzerverentempmiss](https://t.me/begerzerverentempmiss)
+по поводу 💼 предпочтительно в telegram: [@begerzerverentempmiss](https://t.me/begerzerverentempmiss)
 
 
 **Языки и инструменты, которые я использую:**  
