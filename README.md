@@ -16,11 +16,7 @@
 
 <br />
 
- 👋 [Павел](https://vk.com/id150904412). Вебманки.
-
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" /> -->
-  
-по поводу 💼 предпочтительно в telegram: [@begerzerverentempmiss](https://t.me/begerzerverentempmiss)
 
 
 
